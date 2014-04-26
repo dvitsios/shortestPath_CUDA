@@ -1,1 +1,1 @@
-<font size="18">A NVIDIA CUDA <b>Shortest Path problem</b> implementation in C.</font>
+<h4>A NVIDIA CUDA <i>Shortest Path problem</i> implementation in C.</h4>
